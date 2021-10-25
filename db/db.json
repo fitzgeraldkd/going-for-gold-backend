@@ -3,54 +3,82 @@
     {
       "id": 1,
       "name": "Kenny",
-      "earnings": 0
+      "image": "",
+      "winnings": 0
     },
     {
       "id": 2,
       "name": "Brice",
-      "earnings": 0
+      "image": "",
+      "winnings": 0
+    },
+    {
+      "id": 3,
+      "name": "Guest",
+      "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "winnings": 0
     }
   ],
 
-  "categories": [
+  "games": [
     {
-      "id": 105,
-      "category": "3 Letter Words",
-      "questions": [
+      "id": 1,
+      "players": [
         {
-          "id": 129623,
-          "answer": "vow",
-          "question": "A solemn promise; you might take one \"of silence\" (but not now!)",
-          "value": 200,
-          "completed": false
+          "playerId": 1,
+          "winnings": 0
         },
         {
-          "id": 129629,
-          "answer": "sum",
-          "question": "237, when talking about 199 + 38",
-          "value": 400,
-          "completed": false
+          "playerId": 2,
+          "winnings": 0
         },
         {
-          "id": 129635,
-          "answer": "zed",
-          "question": "This British ending to the alphabet ain't dead, baby",
-          "value": 600,
-          "completed": false
-        },
+          "playerId": 3,
+          "winnings": 0
+        }
+      ],
+      "boardControl": 1,
+      "categories": [ 
         {
-          "id": 129641,
-          "answer": "roe",
-          "question": "A crustacean's eggs, as the coral of the lobster",
-          "value": 800,
-          "completed": false
-        },
-        {
-          "id": 132946,
-          "answer": "dub",
-          "question": "To confer knighthood upon, or to insert new dialogue into a movie",
-          "value": 1000,
-          "completed": false
+          "id": 105,
+          "category": "3 Letter Words",
+          "questions": [
+            {
+              "id": 129623,
+              "answer": "vow",
+              "question": "A solemn promise; you might take one \"of silence\" (but not now!)",
+              "value": 200,
+              "completed": false
+            },
+            {
+              "id": 129629,
+              "answer": "sum",
+              "question": "237, when talking about 199 + 38",
+              "value": 400,
+              "completed": false
+            },
+            {
+              "id": 129635,
+              "answer": "zed",
+              "question": "This British ending to the alphabet ain't dead, baby",
+              "value": 600,
+              "completed": false
+            },
+            {
+              "id": 129641,
+              "answer": "roe",
+              "question": "A crustacean's eggs, as the coral of the lobster",
+              "value": 800,
+              "completed": false
+            },
+            {
+              "id": 132946,
+              "answer": "dub",
+              "question": "To confer knighthood upon, or to insert new dialogue into a movie",
+              "value": 1000,
+              "completed": false
+            }
+          ]
         }
       ]
     }
