@@ -26,11 +26,11 @@
       "players": [
         {
           "playerId": 1,
-          "winnings": -500
+          "winnings": 0
         },
         {
           "playerId": 2,
-          "winnings": 500
+          "winnings": 0
         },
         {
           "playerId": 3,
