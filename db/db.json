@@ -2,19 +2,19 @@
   "players": [
     {
       "id": 1,
-      "name": "Kenny",
-      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/72909951/1800",
+      "name": "Guest 1",
+      "image": "",
       "winnings": 0
     },
     {
       "id": 2,
-      "name": "Brice",
-      "image": "https://m.media-amazon.com/images/M/MV5BOTEyNGFmNmYtNWZkMS00NGE4LWI0OGMtMjYxNzhkZDczMGMzXkEyXkFqcGdeQWFsZWxvZw@@._V1_.jpg",
+      "name": "Guest 2",
+      "image": "",
       "winnings": 0
     },
     {
       "id": 3,
-      "name": "Guest",
+      "name": "Guest 3",
       "image": "",
       "winnings": 0
     }
